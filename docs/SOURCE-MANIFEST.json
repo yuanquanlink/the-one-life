@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-08",
+  "source_head": "572f9a8363f5abca2729f72080334104fe3f7060",
+  "source_history_commits": 4,
+  "included_files": 46,
+  "excluded": [
+    "node_modules",
+    "build outputs",
+    "tool caches",
+    "working files",
+    "hosting project_id",
+    "browser personal records"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 714,
+      "sha256": "c8e3a89b75976b50d4500ea9453349c6196559557590771538554c1b18dcfd91"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 35,
+      "sha256": "d2841f8a91a91bab4f4a1e27671e7d3fe8f02261eb41996f43ac61e6970a9d74"
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "bytes": 2490,
+      "sha256": "1407f614cc83d7049fdb08cd713d2516866ba58e24e820f7f4fd9d718b9d3007"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 51329,
+      "sha256": "a9a7725d7120854ea8862841730db9aaf74e8bc2e17efc152c43441fc083d38c"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 1569,
+      "sha256": "4f6700362ff5aed2af11a1b8ff84fe305cc245924ad48f62572404a8a92615d5"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 68854,
+      "sha256": "4735592ef413a5f3400abed9a475342f309df4295bc4f1ad665193813b5ae2f9"
+    },
+    {
+      "path": "build/sites-vite-plugin.ts",
+      "bytes": 1299,
+      "sha256": "abd6bc3a592961e978ab72fceb8ee7647824d9a2321ee5b5777b2a05d69526cc"
+    },
+    {
+      "path": "db/index.ts",
+      "bytes": 436,
+      "sha256": "effa59e46bcbb42dfb7b46911e809a1de0f2c37df1fd935e3dca89023eaf97e4"
+    },
+    {
+      "path": "db/schema.ts",
+      "bytes": 173,
+      "sha256": "48b4f7fafee1f2720b8977ba31bc0cf03dedb7ea8826c4bcbc8dfd74f2d8744f"
+    },
+    {
+      "path": "docs/ARCHIVE.md",
+      "bytes": 2580,
+      "sha256": "3d57eb6a2651694aef7e7aff36047d6be7aa461efdc514ba80f11bfca47001c8"
+    },
+    {
+      "path": "docs/images/desktop.png",
+      "bytes": 116650,
+      "sha256": "6c634f8b2b263d2ac99b5c3a8e22e89c28a18ebf40da3343ec406ef41c341405"
+    },
+    {
+      "path": "docs/images/mobile.png",
+      "bytes": 64675,
+      "sha256": "02a2cb31784f64dbf3a265f6bef866ead8cdc6b08e8e21d970fac8b077278355"
+    },
+    {
+      "path": "docs/README-original.md",
+      "bytes": 2140,
+      "sha256": "80348e80005c1909b563937032191a3d67e6ae62d1b5416de3aa5e9f8c50376a"
+    },
+    {
+      "path": "docs/SOURCE-HISTORY.md",
+      "bytes": 510,
+      "sha256": "afb88a80cf03003ec7ba5b88e572028c3cde5c56a92a79843d22341151443d7e"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 2483,
+      "sha256": "33863f9c1d9cf7534d1a2b795f937b95d1ce272dd60327521ddb1cede413e6f7"
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "bytes": 66,
+      "sha256": "5a5f57f8f48fcf1d065725c0f3dab19e590e96e7e1e5bf8ddff17339a0de8d9a"
+    },
+    {
+      "path": "drizzle.config.ts",
+      "bytes": 155,
+      "sha256": "73d0807c58e541dc3eaf175909fb5acc966faed61f74ff659d9d55027bf3e25b"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 483,
+      "sha256": "275a07c13fc7c83a652efcfa9fb6a207c451a2f5088e6793415ce44281285720"
+    },
+    {
+      "path": "examples/d1/app/api/notes/route.ts",
+      "bytes": 1758,
+      "sha256": "b0b134b9b0b4a9f5947abbd13fd4425b88b59c64f91db1aacb0cecbc16c38f45"
+    },
+    {
+      "path": "examples/d1/db/schema.ts",
+      "bytes": 379,
+      "sha256": "1acd70317bcaf22cb140436fb47754c2144e7c2adfc59a3f427ecb1d816fa0f3"
+    },
+    {
+      "path": "HARMONYOS.md",
+      "bytes": 1301,
+      "sha256": "ee046d8afc03dd28805f7eaf264611eb1d9c38cc0a65339457f2fda4c0a134e6"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 140,
+      "sha256": "a972c4f0ffa6dd714e7909b02d1ac19d2f2fe3d01f191efd2c5054bd6f142ec1"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1424,
+      "sha256": "61411e808ee6f71dfd56c5875cdffc19787e1f99ffca059db8bf218c2e4b069e"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 225480,
+      "sha256": "68ad9bdfc12cf3bfc82e5f704a3b76a5d071b7b6fa28e15d7247e50c7acd6d90"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 101,
+      "sha256": "7b299d3d3b16699ddda397c0b2373b3af4f25f8fc9ccc9b3d9e64ef083bc1c21"
+    },
+    {
+      "path": "public/apple-touch-icon.png",
+      "bytes": 655,
+      "sha256": "ee3c4f358d411e49590228686a08260d6267ee67892a8b27751923153c732788"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 718,
+      "sha256": "3e8863288c2d43dd33d2a71de317dcf9198f09932ea8d61e0def1b846a865435"
+    },
+    {
+      "path": "public/file.svg",
+      "bytes": 391,
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4"
+    },
+    {
+      "path": "public/globe.svg",
+      "bytes": 1035,
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf"
+    },
+    {
+      "path": "public/icon-192.png",
+      "bytes": 680,
+      "sha256": "3a0a443d99b7f19a80cad43c761d4ab180f31719e409dfa84ea8e2037e2d6c00"
+    },
+    {
+      "path": "public/icon-512.png",
+      "bytes": 1801,
+      "sha256": "974bd89a5210b48784de39e020061183acc40842e4ac82ce1ff402264cd12602"
+    },
+    {
+      "path": "public/icon-maskable-512.png",
+      "bytes": 1801,
+      "sha256": "974bd89a5210b48784de39e020061183acc40842e4ac82ce1ff402264cd12602"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "bytes": 791,
+      "sha256": "1345c934c362b7e57d7483a4377b6cfdb7f1169df9eafc9ca987cdc178fdf215"
+    },
+    {
+      "path": "public/og.png",
+      "bytes": 2140482,
+      "sha256": "f918d4a3f0ebcde6f0ada77b73ba4ac30be9bbf6454091416cb5214b0ff3ad37"
+    },
+    {
+      "path": "public/sw.js",
+      "bytes": 854,
+      "sha256": "44f8cd832a2a355d8ccfc3e1a1cf7e9020e8fbf8c73544633203625982cd7d6d"
+    },
+    {
+      "path": "public/window.svg",
+      "bytes": 385,
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3717,
+      "sha256": "9cf42183b63efb56a268af7df8fdef60422ae770a3f472254439b4c80b4313f4"
+    },
+    {
+      "path": "static/index.html",
+      "bytes": 1391,
+      "sha256": "f8a5993ba79c684cf83f411054ed0036dc4fdc62d85006b6a34a037d76f93b91"
+    },
+    {
+      "path": "static/main.tsx",
+      "bytes": 344,
+      "sha256": "6558d01903c60a170a142e5f522ca417861c02fc39f56aacb506ed412167fa7e"
+    },
+    {
+      "path": "tests/mobile-shell.test.mjs",
+      "bytes": 1990,
+      "sha256": "f62077ccaf9094b551def6c52dcb5619f5173aaed39d700d095c5b889687869b"
+    },
+    {
+      "path": "tests/rendered-html.test.mjs",
+      "bytes": 2123,
+      "sha256": "dbcf5934de15c2d2788a0ebae5bfd6b294f6f7e0e531785b37982e25a91c4c28"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 700,
+      "sha256": "fbff01604d6cb54694be707f26e7a0eb21a6ef796b888c6a1dab1839fa7c6ccc"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 640,
+      "sha256": "4faeeb277dde2f39e2694e48169a1ada37115844c4e7e34587dbdeced350db70"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 1756,
+      "sha256": "5d68239b2f24f42354e8a05cf69b83fd8f3ce34727f2edf2b55283e4f732c77a"
+    },
+    {
+      "path": "vite.static.config.ts",
+      "bytes": 249,
+      "sha256": "e602d087e890502646ad53a2a59b9b20d3dc2bdb672bff9296aff0c519a2f3ce"
+    },
+    {
+      "path": "worker/index.ts",
+      "bytes": 1778,
+      "sha256": "6f8983ab616309202039ad672b1a46a835bede1bb77636dc751613c664f969e5"
+    }
+  ],
+  "note": "本清单不包含自身，避免循环校验。原始 Git 历史位于源码 ZIP 外的独立 bundle。"
+}
